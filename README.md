@@ -8,4 +8,5 @@ Sugestão de site: *Portal da Transparência (https://portaldatransparencia.gov.
 
 Sugestão: Upar os Arquivos em uma pasta no Google Drive e utilizar o Google Colab para desenvolver o código
 
-Sugestões de Onde Aprender: *Asimov Academy (Python para dados: do zero à análise completa)* | *Hashtag Programação (Intensivão de Python ou Vídeos no Canal do Youtube)*
+Sugestões de Onde Aprender: *Asimov Academy (Python para dados: do zero à análise completa)* 
+*Hashtag Programação (Intensivão de Python ou Vídeos no Canal do Youtube)*
